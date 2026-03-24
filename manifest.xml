@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Production manifest: serves from Automate Loan Docs .NET app (localhost:5150 for dev, your domain for prod) -->
+<!-- To change the server URL, find-replace "https://geraci-llp.github.io" with your production HTTPS URL -->
 <OfficeApp
   xmlns="http://schemas.microsoft.com/office/appforoffice/1.1"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
